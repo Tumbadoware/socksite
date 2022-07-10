@@ -1,0 +1,58 @@
+body{
+  background-color:burlywood;
+  margin:0;
+  box-sizing: border-box;
+}
+h1{
+  color:aqua;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:55px;
+  text-align:center;
+}
+h1:hover{
+  color:white;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:54px;
+  text-align:center;
+}
+h2{
+  color:white;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:45px;
+  text-align:center;
+}
+h2:hover{
+  color:aqua;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:44px;
+  text-align:center;
+}
+.icon{
+  border-radius: 150px;
+  height: 90px;
+  width:90px;
+  text-align:center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  opacity:0.9;
+  border:4px ridge white;
+}
+.icon:hover{
+  border-radius: 150px;
+  height: 90px;
+  width:90px;
+  text-align:center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  opacity:0.5;
+  border:2px ridge white;
+}
+.project{
+  background-color:gray;
+  color:burlywood;
+  height: 500px;
+  width:100%;
+  text-align:center;
+}
